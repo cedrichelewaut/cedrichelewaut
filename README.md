@@ -3,7 +3,6 @@ Burgerlijk ingenieur computerwetenschappen (ir.) <br />
 Computer Science Engineer (M.Sc.) <br />
 <br /> 
 Passionate about Innovation and Sustainability.<br />
-Let's make this place a little better. <br />
 
 
 # Contact
