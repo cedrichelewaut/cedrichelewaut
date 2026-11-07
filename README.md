@@ -8,3 +8,6 @@ Learn more about me on my website: [cedrichelewaut.be](https://cedrichelewaut.be
 - **[fraud-aid](https://github.com/cedrichelewaut/fraud-aid)** – Free first aid for scam victims in Belgium: a guided flow, fixed legal rules and a local LLM that only summarises.
 - **[marathoning](https://github.com/cedrichelewaut/marathoning)** – A static training board built from a config file and a CSV of runs, published with GitHub Actions. Works as a template.
 - **[note-taker](https://github.com/cedrichelewaut/note-taker)** – A minimal CLI that records voice notes, transcribes and rewrites them, and syncs them to Notion.
+
+## FlexViz
+I worked on the launch of [FlexViz](https://flexviz.tech) with Jeroen ([@jvdd](https://github.com/jvdd)). It's fast, agent-native interactive data exploration, so check it out if you ever work with visualizing large data sets.
